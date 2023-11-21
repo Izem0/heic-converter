@@ -13,5 +13,5 @@ Follow the installation instructions here: https://docs.wand-py.org/en/latest/gu
 4. Install the Wand library and the other requirements `pip install -r requirements.txt`
 
 ## Usage
-1. Put the .heic files to be converted into the `SOURCE_DIR`. For example "~/Documents/heic-converter/heic_images"
+1. Create a folder `heic_images/` at the root (for example "~/Documents/heic-converter/heic_images/") and put the .heic files to be converted in it.
 2. Run the program: `python main.py`
