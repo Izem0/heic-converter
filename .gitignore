@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+converted_images/*
+heic_images/*
+logs/
+testing_script.py
+venv/
