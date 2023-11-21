@@ -1,7 +1,7 @@
 # HEIC converter
 > Converting HEIC images to usable JPG images
 
-This programs uses ImageMagick and the Wand library to convert HEIC images (coming from iPhone) to usable .JPG images.
+This programs uses ImageMagick and the Wand library to convert HEIC images (coming from iPhone) to usable JPG images.
 
 ![example-image](example.png)
 
